@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\user\OneDrive\桌面\Ch2_hw\110360224_洪正源\4.27\source\Main.c(8,1): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  4.27.vcxproj -> C:\Users\user\OneDrive\桌面\Ch2_hw\110360224_洪正源\4.27\4.27\Debug\4.27.exe
